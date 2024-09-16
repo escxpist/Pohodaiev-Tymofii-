@@ -1,0 +1,1 @@
+print('My lab1')
